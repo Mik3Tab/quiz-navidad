@@ -6,7 +6,7 @@ _Practice developed for the presentation of a project at ![image](https://user-i
 
 The project consists of a quiz based on video games. It consists of 10 questions, which we extract from an API (https://opentdb.com/). This quiz consists of 10 questions about video games. The correct questions will be highlighted in green. Otherwise, they will be highlighted in red. The second you choose an answer, you will move on to the next question. Once the quiz is finished, you will be taken to the end.html page, where you can register your score in the leaderboard, and/or replay another quiz.
 
-Using the fetch(9 method i extract everything i need for the project:
+Using the fetch() method i extract everything i need for the project:
 
 ```
 fetch('https://opentdb.com/api.php?amount=10&category=15&difficulty=easy&type=multiple')
