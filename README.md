@@ -1,6 +1,6 @@
 # HTML / CSS / JS Project <-> Fetch request to an API for the creation of a Quiz about videogames.
 
-_Practice developed for the presentation of a project at ![image](https://user-images.githubusercontent.com/93273286/149514438-1a016288-abba-4c23-b3ec-7ad73581393d.png) The Bridge_
+_Practice developed for the presentation of a project at ![image](https://user-images.githubusercontent.com/93273286/149514438-1a016288-abba-4c23-b3ec-7ad73581393d.png)_
 
 ## About the project 📖
 
